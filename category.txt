@@ -1,0 +1,5 @@
+Clothing
+Books
+Food
+Toys
+Sports
